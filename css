@@ -9,7 +9,17 @@ h1 {
 .image1 {
   display: block;
   margin: 0 auto;
-  width: 350px;
+  width:480px;
   padding: 3%
   
+}
+
+#answers {
+ width: 130px;
+ height: 130px;
+ position: absolute;
+ z-index: 0;
+ top: 440px;
+ right: 650px;
+ color: white;
 }
