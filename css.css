@@ -4,22 +4,22 @@ h1 {
 }
 #setUp {
   text-align: center;
+  padding: 0%;
 }
 
 .image1 {
   display: block;
   margin: 0 auto;
   width:480px;
-  padding: 3%
-
 }
 
 #answers {
  width: 130px;
  height: 130px;
- position: absolute;
  z-index: 0;
- top: 440px;
- right: 650px;
- color: white;
+ color: red;
+ position: relative;
+ padding: 0%;
+ top: 340px;
+ left: 47%;
 }
